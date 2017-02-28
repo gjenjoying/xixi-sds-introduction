@@ -21,11 +21,11 @@
         },
         "sharing": {
         "weibo": null,
-        "facebook": true,
-        "twitter": true,
-        "google": false,
-        "instapaper": false,
-        "vk": false,
+        "facebook": null,
+        "twitter": null,
+        "google": null,
+        "instapaper": remove,
+        "vk": remove,
         "all": [
             "facebook", "google", "twitter",
                 "weibo", "instapaper"
