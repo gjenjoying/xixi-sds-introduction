@@ -20,7 +20,7 @@
             "www.xixisys.com": "http://www.xixisys.com"
         },
         "sharing": {
-        "weibo": true,
+        "weibo": null,
         "facebook": true,
         "twitter": true,
         "google": false,
