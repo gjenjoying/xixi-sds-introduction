@@ -6,7 +6,7 @@
     "plugins": ["disqus","comment","duoshuo"],
     "pluginsConfig": {
         "duoshuo": {
-            "shortName": "xixisys"
+            "short_name": "xixisys"
         }
                
     },
