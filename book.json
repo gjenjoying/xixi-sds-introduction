@@ -19,7 +19,7 @@
             "twitter": true,
             "google": true,
             "all": [
-                "facebook", "google", "twitter","weibo"
+                "weibo","facebook", "google", "twitter"
             ]
     }
 
