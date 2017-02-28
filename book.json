@@ -6,7 +6,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "xixisys",
+            "shortName": "xixisys"
         }
     },
      "links": {
