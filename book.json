@@ -12,14 +12,8 @@
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : [""]
-        }
-               
-    },
-     "links": {
-        "sidebar": {
-            "www.xixisys.com": "http://www.xixisys.com"
         },
-     "sharing": {
+        "sharing": {
         "weibo": null,
         "facebook": null,
         "twitter": null,
@@ -29,5 +23,12 @@
                 "weibo"
         ]
     }
+
+               
+    },
+     "links": {
+        "sidebar": {
+            "www.xixisys.com": "http://www.xixisys.com"
+        }
     }
 }
