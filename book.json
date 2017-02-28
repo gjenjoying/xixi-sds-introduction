@@ -14,14 +14,14 @@
             "defineWord" : [""]
         },
         "sharing": {
-        "weibo": null,
-        "facebook": null,
-        "twitter": null,
-        "google": null,
-        "all": [
-            "facebook", "google", "twitter",
-                "weibo"
-        ]
+            "weibo": null,
+            "facebook": null,
+            "twitter": null,
+            "google": null,
+            "all": [
+                "facebook", "google", "twitter",
+                    "weibo"
+            ]
     }
 
                
