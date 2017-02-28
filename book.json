@@ -20,11 +20,16 @@
             "www.xixisys.com": "https://www.xixisys.com"
         },
         "sharing": {
-            "all": null,
-            "weibo": null,
-            "google": null,
-            "facebook": null,
-            "twitter": null
-        }
+        "weibo": true,
+        "facebook": true,
+        "twitter": true,
+        "google": false,
+        "instapaper": false,
+        "vk": false,
+        "all": [
+            "facebook", "google", "twitter",
+                "weibo", "instapaper"
+        ]
+    }
     }
 }
