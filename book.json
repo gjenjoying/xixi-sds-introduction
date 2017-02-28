@@ -24,7 +24,7 @@
         "facebook": null,
         "twitter": null,
         "google": null,
-        "instapaper": remove,
+        "instapaper": "remove",
         "vk": remove,
         "all": [
             "facebook", "google", "twitter",
