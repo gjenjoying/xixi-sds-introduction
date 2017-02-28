@@ -15,7 +15,7 @@
         },
         "sharing": {
             "weibo": null,
-            "facebook": null,
+            "facebook": true,
             "twitter": null,
             "google": null,
             "all": [
