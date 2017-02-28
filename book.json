@@ -10,12 +10,9 @@
         }
     },
      "links": {
-        // Custom links at top of sidebar
         "sidebar": {
             "Custom link name": "https://customlink.com"
         },
-
-        // Sharing links
         "sharing": {
             "google": null,
             "facebook": null,
