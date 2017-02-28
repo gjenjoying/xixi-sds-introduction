@@ -19,8 +19,7 @@
             "twitter": false,
             "google": false,
             "all": [
-               "weibo", "facebook", "google", "twitter",
-               
+               "weibo","facebook", "google", "twitter"
             ]
         }
 
