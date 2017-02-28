@@ -14,10 +14,10 @@
             "Custom link name": "https://customlink.com"
         },
         "sharing": {
+            "weibo": null,
             "google": null,
             "facebook": null,
             "twitter": null,
-            "weibo": null,
             "all": null
         }
     }
