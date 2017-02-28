@@ -1,12 +1,3 @@
 {
-    "plugins": [
-        "search",
-        "meta",
-    ],
-    "pluginsConfig": {
-        "meta": {
-            "name": "title",
-            "content": "XiXi SDS"
-        },
-    }
+    "plugins": ["mathjax"]
 }
