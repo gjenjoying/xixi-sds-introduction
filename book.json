@@ -3,7 +3,7 @@
     "description" : "XiXisys SDS是专为贸易公司设计的",
     "author":"www.xixisys.com",
     "language": "zh",
-    "plugins": ["disqus","comment"],
+    "plugins": ["disqus","comment",""duoshuo""],
     "pluginsConfig": {
         "disqus": {
             "shortName": "xixisys"
