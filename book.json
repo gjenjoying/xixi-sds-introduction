@@ -14,10 +14,11 @@
             "defineWord" : [""]
         },
         "sharing": {
+            "weibo": true,
             "facebook": true,
             "twitter": true,
             "google": false,
-            "weibo": false,
+            
             "instapaper": false,
             "vk": false,
             "all": [
