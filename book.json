@@ -14,14 +14,17 @@
             "defineWord" : [""]
         },
         "sharing": {
-            "weibo": true,
             "facebook": true,
             "twitter": true,
-            "google": true,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
             "all": [
-                "weibo","facebook", "google", "twitter"
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
             ]
-    }
+        }
 
                
     },
