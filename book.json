@@ -10,9 +10,9 @@
              "theme": "default"
         },
         "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
-    }
+            "cutWordLib": "nodejieba",
+            "defineWord" : ["Gitbook Use"]
+        }
                
     },
      "links": {
