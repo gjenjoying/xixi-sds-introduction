@@ -29,5 +29,8 @@
         "sidebar": {
             "www.xixisys.com": "http://www.xixisys.com"
         }
+    },
+    "styles": {
+        "website": "styles/website.css"
     }
 }
