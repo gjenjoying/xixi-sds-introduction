@@ -1,4 +1,7 @@
 {
     "plugins": ["meta"],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "meta":{
+        }
+    }
 }
