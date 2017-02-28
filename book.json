@@ -5,7 +5,7 @@
     "language": "zh",
     "plugins": ["disqus","comment","duoshuo"],
     "pluginsConfig": {
-        "disqus": {
+        "duoshuo": {
             "shortName": "xixisys"
         }
                
