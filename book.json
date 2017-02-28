@@ -8,7 +8,11 @@
         "duoshuo": {
             "short_name": "xixisys",
              "theme": "default"
-        }
+        },
+        "search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["Gitbook Use"]
+    }
                
     },
      "links": {
