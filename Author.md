@@ -36,7 +36,8 @@
 
 **新增产品：**
 
-![](/assets/newproduct.png)![](/assets/newproduct2.png)
+![](/assets/newproduct.png)
+![](/assets/newproduct2.png)
 
 **选中本份SDS要使用的产品：\(选中后有红框标识）**
 
