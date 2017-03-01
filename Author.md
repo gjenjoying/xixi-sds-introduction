@@ -6,11 +6,11 @@
 
 将下载来的文件解压缩，无须安装，直接运行XiXi SDS即可。
 
-Windows下：
+**Windows下：**
 
 ![](/assets/windows.png)
 
-Mac OSX下：![](/assets/mac.png)
+**Mac OSX下：**![](/assets/mac.png)
 
 #### 2. 注册及登录
 
