@@ -28,7 +28,7 @@
 
 **新增公司：**
 
-![](/assets/newcompany.png)
+![](/assets/newcompany.png)  
 ![](/assets/createcompany2.png)
 
 **选中本份SDS要使用的公司：\(选中后有红框标识）**
@@ -37,12 +37,14 @@
 
 **新增产品：**
 
-![](/assets/newproduct.png)
+![](/assets/newproduct.png)  
 ![](/assets/newproduct2.png)
 
 **选中本份SDS要使用的产品：\(选中后有红框标识）**
 
 ![](/assets/selectproduct.png)
+
+点击下一步。
 
 #### 5. 第2步完善信息
 
