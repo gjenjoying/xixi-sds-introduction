@@ -10,6 +10,10 @@ Windows下：
 
 ![](/assets/windows.png)
 
+Mac OSX下：
+
+
+
 #### 2. 注册及登录
 
 首次使用软件，需要注册一个账户，然后登录使用。
