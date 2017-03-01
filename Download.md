@@ -1,6 +1,4 @@
-# 下载软件
-
-#### 1. 下载软件
+# 下载软
 
 **Windows系统：**支持Win 7以上系统，不支持Win Xp及以下系统
 
@@ -13,7 +11,7 @@
 
 * [http://download.xixisys.com/apps/xixi-sds/XiXi%20SDS-darwin-x64.zip](http://download.xixisys.com/apps/xixi-sds/XiXi%20SDS-darwin-x64.zip)
 
-#### 2. 运行软件
+#### 
 
-将以上下载来的文件解压缩，无须安装，直接运行XiXi SDS即可。
+
 
