@@ -3,7 +3,7 @@
     "description" : "XiXi SDS，专为中国外贸公司打造。极简操作，合规格式，智能内容。",
     "author":"www.xixisys.com",
     "language": "zh-hans",
-    "plugins": ["-search","search-pro","duoshuo","advanced-emoji","splitter","sharing"],
+    "plugins": ["-search","search-pro","duoshuo","splitter","sharing"],
     "pluginsConfig": {
         "duoshuo": {
             "short_name": "xixisys",
