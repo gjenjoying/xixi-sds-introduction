@@ -54,3 +54,7 @@ SDS第2部分的危害分类等信息，已自动填写。![](/assets/part2.png)
 
 点击右上角导出PDF按钮，即可得到SDS的PDF文件。![](/assets/exportpdf.png)
 
+#### 7. 自动保存内容与备份到云端
+
+点击右上角导出PDF按钮，即可得到SDS的PDF文件。![](/assets/exportpdf.png)
+
