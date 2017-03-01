@@ -31,24 +31,18 @@
 ![](/assets/newcompany.png)  
 ![](/assets/createcompany2.png)
 
-**选中本份SDS要使用的公司：\(选中后有红框标识）**
-
-![](/assets/selectcompany.png)
+**选中本份SDS要使用的公司，选中后有红框标识。**
 
 **新增产品：**
 
 ![](/assets/newproduct.png)  
 ![](/assets/newproduct2.png)
 
-**选中本份SDS要使用的产品：\(选中后有红框标识）**
-
-![](/assets/selectproduct.png)
+**选中本份SDS要使用的产品，选中后有红框标识。**
 
 #### 5. 第2步完善信息
 
 根据第1步所填写的信息，一份SDS草稿已经完成。根据软件左侧边栏的提示，将SDS中的内容修改完善即可。
-
-
 
 一般而言，只要将第9部分的理化数据填写好，导出的SDS已能符合国外客户的要求。然而，为了使SDS的内容更准确，建议核实SDS每一部分的内容，确认无误后再发给客户。
 
