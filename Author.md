@@ -26,7 +26,9 @@
 
 根据提示，完整地录入公司、产品信息。录入的信息，下次制作SDS时可重复使用。点下一步继续。
 
-**新增公司：**![](/assets/newcompany.png\)![]\(/assets/createcompany2.png)
+**新增公司：**
+
+![](/assets/newcompany.png)![](/assets/createcompany2.png)
 
 **选中本份SDS要使用的公司：\(选中后有红框标识）**
 
