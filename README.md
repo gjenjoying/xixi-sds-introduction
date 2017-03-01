@@ -1,12 +1,8 @@
-# ![](http://www.xixisys.com/img/screenshot.jpg)XiXi SDS试用版 使用说明
+# XiXi SDS试用版 使用说明
 
-#### 
 
-#### 出口合规软件，专为中国外贸公司创造。
 
-#### 
-
-#### 简介
+#### 出口合规软件，专为中国外贸公司创造。![](http://www.xixisys.com/img/screenshot.jpg)简介
 
 SDS是化学品贸易中最常见的文件之一。通过XiXi SDS软件，可以快速制作出多种国家版本的SDS，符合其最新要求。
 
