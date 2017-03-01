@@ -1,4 +1,4 @@
-# XiXi SDS试用版 使用说明
+# ![](http://www.xixisys.com/img/screenshot.jpg)XiXi SDS试用版 使用说明
 
 #### 
 
