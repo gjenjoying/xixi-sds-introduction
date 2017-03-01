@@ -10,9 +10,7 @@ Windows下：
 
 ![](/assets/windows.png)
 
-Mac OSX下：
-
-
+Mac OSX下：![](/assets/mac.png)
 
 #### 2. 注册及登录
 
