@@ -28,7 +28,8 @@
 
 **新增公司：**
 
-![](/assets/newcompany.png)![](/assets/createcompany2.png)
+![](/assets/newcompany.png)
+![](/assets/createcompany2.png)
 
 **选中本份SDS要使用的公司：\(选中后有红框标识）**
 
