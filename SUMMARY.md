@@ -5,5 +5,5 @@
 * [制作第一份SDS](Author.md)
 * [管理](Manage.md)
 * [正式版](more.md)
-* [联系与反馈](Contact.md)
+* [反馈与早鸟优惠](Contact.md)
 
