@@ -1,6 +1,4 @@
-# XiXi SDS试用版 使用说明
-
-
+# XiXi SDS 使用说明
 
 #### 出口合规软件，专为中国外贸公司创造。![](http://www.xixisys.com/img/screenshot.jpg)简介
 
