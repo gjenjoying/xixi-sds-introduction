@@ -10,17 +10,19 @@
 
 ![](/assets/windows.png)
 
-**Mac OSX下：**![](/assets/mac.png)
+**Mac OSX下：**
+![](/assets/mac.png)
 
 #### 2. 注册及登录
 
 首次使用软件，需要注册一个账户，然后登录使用。
 
-![](/assets/login.png)
-
 #### 3. 创建新的SDS
 
 #### ![](/assets/newsds.png)
+
+#### 4. 第1步基本信息-公司和产品
+
 
 #### 4. 第1步基本信息-公司和产品
 
