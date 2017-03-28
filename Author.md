@@ -10,7 +10,7 @@
 
 ![](/assets/windows.png)
 
-**Mac OSX下：**
+**Mac OSX下：**  
 ![](/assets/mac.png)
 
 #### 2. 注册及登录
@@ -23,6 +23,7 @@
 
 #### 4. 第1步选择版本
 
+![](/assets/version.png)
 
 #### 4. 第1步基本信息-公司和产品
 
