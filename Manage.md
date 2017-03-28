@@ -4,7 +4,5 @@
 
 ![](/assets/manage.png)
 
-在创建新的SDS文档页面，可修改、删除公司、产品信息。
 
-![](/assets/managecompanyproduct.png)
 
