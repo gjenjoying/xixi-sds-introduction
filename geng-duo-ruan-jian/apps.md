@@ -11,7 +11,7 @@
 * 网页端使用（请使用Chrome/Firefox等浏览器，360等其它浏览器使用时可能会遇到小问题）：[https://www.xixisys.com/pages/search](https://www.xixisys.com/pages/search)
 * 下载软件（Windos XP及以上系统适用；如需Mac版，请联系我们索取）：
 
-### 1. MSDS/SDS一键搜索工具：
+### 2. MSDS/SDS一键搜索工具：
 
 
 
