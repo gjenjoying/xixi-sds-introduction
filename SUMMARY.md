@@ -14,5 +14,5 @@
 
 ## 更多软件
 
-* [apps](geng-duo-ruan-jian/apps.md)
+* [apps](apps/all.md)
 
