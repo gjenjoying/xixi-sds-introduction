@@ -14,5 +14,5 @@
 
 ## 更多软件
 
-* [apps](apps/all.md)
+* [公益软件](apps/all.md)
 
