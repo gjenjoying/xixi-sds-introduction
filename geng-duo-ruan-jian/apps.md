@@ -4,7 +4,11 @@
 
 ### 1. MSDS/SDS一键搜索工具：
 
-一键搜索并下载以下网站的SDS：SIGMA ALDRICH、ThermoFisher、Fisher Scientific、POCH、Science Lab、GFS Chemicals、Acros Organics、Alfa Aesar、Praxair、Air Liquide、EMD Millipore等。
+简介：一键搜索并下载以下网站的SDS：SIGMA ALDRICH、ThermoFisher、Fisher Scientific、POCH、Science Lab、GFS Chemicals、Acros Organics、Alfa Aesar、Praxair、Air Liquide、EMD Millipore等。
 
+使用：
+
+* 网页端使用（请使用Chrome/Firefox等浏览器，360等其它浏览器使用时可能会遇到小问题）：https://www.xixisys.com/pages/search
+* 
 
 
