@@ -11,7 +11,7 @@
 * 网页端使用（请使用Chrome/Firefox等浏览器，360等其它浏览器使用时可能会遇到小问题）：[https://www.xixisys.com/pages/search](https://www.xixisys.com/pages/search)
 * 下载软件（Windos XP及以上系统适用；如需Mac版，请联系我们索取）：
 
-### 2. Email有效性验证工具：
+### 2. Email有效性验证工具（根据反馈确定是否开发）：
 
 简介：如果有大量Emails要做邮件营销，首先需要对Emails做一次清洗：将其中无效的邮箱删除，再使用专业的服务方发送（如Mailchimp）。我们摸索出一套免费有效的Emails有效性验证的方法，愿意免费分享给外贸公司使用。
 
